@@ -1,0 +1,22 @@
+[
+    {
+        "id": "how to plant raspberries",
+        "questions": [
+            "How to plant raspberries correctly?",
+            "How to care for raspberries?",
+            "When is the best time to plant raspberries?",
+            "Which raspberry varieties grow best in my region?",
+            "How to combat raspberry diseases?"
+        ]
+    },
+    {
+        "id": "how to plant an apple tree",
+        "questions": [
+           "When to plant an apple tree?",
+            "How to care for an apple tree?",
+            "Which apple varieties are suitable for a garden plot?",
+            "How to combat apple tree diseases?",
+            "How to prune an apple tree for a better harvest?"
+        ]
+    }
+]
